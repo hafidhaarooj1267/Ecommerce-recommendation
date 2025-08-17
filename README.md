@@ -1,11 +1,11 @@
 # Ecommerce-recommendation
 
-E-Commerce Sales Analysis
+#**E-Commerce Sales Analysis**
 
 This is a beginner project for analyzing Superstore Sales Data using Python.
 I used Pandas for handling the dataset and Plotly for making graphs.
 
-About Project
+#**About Project**
 
 Dataset: Superstore Sample (CSV file)
 
@@ -13,39 +13,39 @@ Tools: Google Colab / Jupyter Notebook
 
 Libraries used: Pandas, Plotly
 
-What I Did
+**What I Did**
 
-Loaded the dataset and checked basic information using data.info() and data.describe().
+1.Loaded the dataset and checked basic information using data.info() and data.describe().
 
-Converted Order Date and Ship Date into datetime format.
+2.Converted Order Date and Ship Date into datetime format.
 
-Created new columns:
+3.Created new columns:
 
-Order Month
+4.Order Month
 
-Order Year
+5.Order Year
 
-Order Day of Week
+6.Order Day of Week
 
-Performed different analysis:
+7.Performed different analysis:
 
-Monthly Sales Analysis
+8.Monthly Sales Analysis
 
-Sales by Category
+9.Sales by Category
 
-Sales by Sub-Category
+10.Sales by Sub-Category
 
-Profit by Category
+11.Profit by Category
 
-Profit by Sub-Category
+12.Profit by Sub-Category
 
-Customer Segment Analysis
+13.Customer Segment Analysis
 
-Sales to Profit Ratio
+14.Sales to Profit Ratio
 
-Visualizations
+**Visualizations**
 
-The following visualizations were created using Plotly:
+**The following visualizations were created using Plotly:**
 
 Line chart for monthly sales
 
